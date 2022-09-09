@@ -1,3 +1,2 @@
-I want silence, but silence is ethereal.  
-Nevermind "nothing gold can stay",  
-if "speech is silver" and "silence is golden", then nothing silent can stay.
+If aren't sure which way to do something, do it both ways, and see which works better
+ - John Carmack
